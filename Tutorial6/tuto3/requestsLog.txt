@@ -1,0 +1,48 @@
+Request start:
+1. GET
+2. /api/students
+3. 
+4.  
+Request end: 
+Request start:
+1. GET
+2. /favicon.ico
+3. 
+4.  
+Request end: 
+Request start:
+1. GET
+2. /api/students
+3. 
+4.  
+Request end: 
+Request start:
+1. GET
+2. /favicon.ico
+3. 
+4.  
+Request end: 
+Request start:
+1. GET
+2. /api/students
+3. 
+4.  
+Request end: 
+Request start:
+1. GET
+2. /favicon.ico
+3. 
+4.  
+Request end: 
+Request start:
+1. GET
+2. /api/students
+3. 
+4.  
+Request end: 
+Request start:
+1. GET
+2. /favicon.ico
+3. 
+4.  
+Request end: 
